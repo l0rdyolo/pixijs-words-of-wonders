@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "worldTileSheet.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 914,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 914,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 916,
+        "h": 732
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 914,
+      "h": 730
+    },
+    "scale": 1
+  }
+}
