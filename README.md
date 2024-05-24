@@ -1,18 +1,12 @@
-# Welcome to Playable Factory 🚀
+## pixijs - word of wonders prototype
 
-## 🚀 Getting Started
+### this project made for a company case 
+#### some scenes and assets have been deleted. some of them are still being used in this project, if there is an issue of copyright, please dm me.
 
-### Prerequisites
 
-- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
-
-### 🛠 Installation and Setup
-
-#### 1. **Install Packages**
+### installation and Setup
 npm install
-#### 2. **Run the Project**
 npm start
-#### 3. **Build the Project**
 npm run build
 
 

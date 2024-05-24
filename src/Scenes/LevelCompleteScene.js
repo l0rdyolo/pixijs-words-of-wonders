@@ -13,7 +13,7 @@ export default class LevelCompleteScene extends Container {
         this.init();
     }
     init() {
-        this.#initBg()
+        // this.#initBg()
         this.#initTitle();
         this.initEarthAnimation();
         this.addChild(this.playButton)

@@ -9,6 +9,11 @@ import { getMaxLength, parseLevelLetters, parseLevelWords } from "./stringParser
 //LEVEL
 const levelLetters = "G,O,D,L"
 const levelWords = "0,0,GOLD,H|0,0,GOD,V|2,0,DOG,H|0,2,LOG,V"
+
+
+
+
+
 export const LEVEL_LETTERS = parseLevelLetters(levelLetters);
 export const LEVEL_WORDS = parseLevelWords(levelWords);
 export const LEVEL_WORDS_MAX_LENGTH = getMaxLength(LEVEL_WORDS);
@@ -41,8 +46,8 @@ export const GAME_CELLSIZE = (minLength - 20) / LEVEL_WORDS_MAX_LENGTH ;
 console.log(GAME_CELLSIZE);
 
 export const COLORS = {
-  orange : 0xff9b0a,
-  white : 0xffffff,
+  orange : 0xff2b0a,
+  white : 0xfff0ff,
   hint : 0x33cc33,
 
 }

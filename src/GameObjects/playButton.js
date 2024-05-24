@@ -34,7 +34,7 @@ export default class PlayButton extends Container {
 
 
 #pointerDown(){
-    window.location.href = "https://playablefactory.com/";
+    window.location.reload();
 }
 #initSprite(){
     // this.sprite.tint = COLORS.orange

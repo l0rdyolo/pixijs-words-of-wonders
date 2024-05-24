@@ -16,9 +16,9 @@ export default class LevelScene extends Container {
   }
   
   init() {
-    this.#initBg()
+    // this.#initBg()
     this.addChild(this.gridSection)
-    this.addChild(this.playButton)
+    // this.addChild(this.playButton)
     this.gridSection.x = (minLength / GAME_CELLSIZE) * 2.5
     this.gridSection.y = (minLength / GAME_CELLSIZE) * 2.5
 
